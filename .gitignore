@@ -1,0 +1,11 @@
+#VOCdevkit
+/VOCdevkit/*
+/VOCdevkit_dj/*
+/VOCdevkit_headCut/*
+/VOCdevkit_helmet/*
+#yolov3.weights
+yolov3.weights
+yolov3.weights.1
+/model_data/yolo_weights.h5
+#logs
+/logs/*

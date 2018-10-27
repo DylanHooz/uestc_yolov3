@@ -1,0 +1,876 @@
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1.jpg 143,20,289,152,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/10.jpg 261,173,369,274,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/100.jpg 150,138,283,246,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/101.jpg 44,159,163,284,3 381,200,445,255,3 596,107,686,189,3 856,71,969,179,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/102.jpg 82,245,1133,580,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/103.jpg 242,125,281,151,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/104.jpg 756,175,1000,306,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/105.jpg 62,942,5534,1938,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/106.jpg 118,46,267,140,2 184,72,294,138,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/109.jpg 94,120,351,269,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/11.jpg 44,36,114,105,3 444,210,487,260,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/110.jpg 583,114,793,318,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/111.jpg 156,77,203,112,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/112.jpg 46,36,113,105,3 445,213,487,259,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/113.jpg 147,75,162,94,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/114.jpg 48,59,107,148,2 206,68,244,138,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/115.jpg 168,252,735,558,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/116.jpg 83,55,446,331,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/117.jpg 886,237,997,311,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/118.jpg 331,244,643,445,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/119.jpg 135,430,412,645,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/120.jpg 256,178,289,222,2 292,143,328,165,2 327,159,355,179,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/121.jpg 473,1,524,284,2 1,193,317,295,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/122.jpg 111,151,168,209,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/123.jpg 38,47,220,146,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/124.jpg 96,15,329,208,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/125.jpg 445,88,518,174,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/126.jpg 218,47,311,96,2 51,75,97,118,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/127.jpg 85,191,406,243,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/128.jpg 71,41,251,192,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/129.jpg 63,140,216,252,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/13.jpg 231,300,690,428,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/130.jpg 128,145,271,213,2 622,138,691,234,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/131.jpg 85,1,171,27,2 172,4,199,28,3 200,124,244,158,3 67,28,217,66,2 67,68,219,108,2 67,112,197,152,2 196,8,300,55,2 221,67,300,121,2 245,119,300,166,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/132.jpg 84,132,178,235,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/133.jpg 10,133,485,266,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/134.jpg 299,30,358,118,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/135.jpg 151,126,210,182,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/136.jpg 279,121,321,155,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/138.jpg 19,72,34,86,3 63,52,116,153,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/139.jpg 240,74,279,108,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/14.jpg 253,177,269,197,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/140.jpg 155,17,376,427,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/141.jpg 143,312,209,410,3 419,76,469,123,3 242,85,294,118,3 192,8,276,46,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/142.jpg 466,145,759,422,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/143.jpg 24,58,46,87,3 340,20,359,47,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/144.jpg 285,194,475,307,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/145.jpg 3,6,246,51,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/146.jpg 86,59,134,152,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/147.jpg 3,101,123,151,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/148.jpg 77,34,261,79,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/149.jpg 174,114,192,152,3 17,112,63,173,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/15.jpg 295,1,396,280,2 141,263,178,375,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/150.jpg 65,39,113,126,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/151.jpg 15,71,48,149,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/152.jpg 75,1,128,117,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/153.jpg 32,63,123,117,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/154.jpg 49,75,108,105,2 125,83,193,117,2 173,83,247,108,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/155.jpg 182,94,226,117,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/156.jpg 217,76,234,88,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/157.jpg 11,40,184,133,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/158.jpg 40,17,73,75,3 233,49,256,93,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/159.jpg 75,64,125,109,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/16.jpg 68,70,137,123,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/160.jpg 95,73,115,90,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/161.jpg 44,15,279,118,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/162.jpg 168,16,222,41,3 139,87,177,105,3 130,118,161,130,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/163.jpg 55,55,259,115,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/164.jpg 55,26,212,98,2 23,97,139,175,2 158,107,283,175,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/165.jpg 29,8,227,67,2 26,71,255,123,2 14,127,76,155,3 182,143,250,192,2 34,142,153,189,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/166.jpg 114,36,195,117,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/167.jpg 35,1,257,150,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/168.jpg 29,49,248,130,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/169.jpg 58,65,245,127,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/17.jpg 76,104,94,126,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/170.jpg 55,2,299,134,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/171.jpg 2,58,311,111,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/172.jpg 89,113,109,143,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/173.jpg 50,121,154,180,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/174.jpg 135,57,210,166,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/175.jpg 40,95,187,142,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/176.jpg 16,34,103,155,2 132,58,200,168,2 198,55,286,153,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/177.jpg 130,63,195,84,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/178.jpg 7,18,264,181,2 105,99,268,183,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/179.jpg 110,64,216,180,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/18.jpg 17,21,175,206,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/180.jpg 17,58,130,178,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/181.jpg 85,59,134,148,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/182.jpg 93,80,123,134,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/183.jpg 111,43,272,139,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/184.jpg 128,100,176,168,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/185.jpg 99,48,129,110,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/186.jpg 2,1,221,124,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/187.jpg 71,34,185,136,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/188.jpg 122,81,172,177,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/189.jpg 4,76,173,166,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/19.jpg 665,305,793,579,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/190.jpg 151,117,298,168,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/191.jpg 40,67,245,119,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/192.jpg 155,14,180,67,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/193.jpg 110,36,140,82,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/194.jpg 60,60,217,164,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/195.jpg 91,87,166,136,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/196.jpg 169,81,190,98,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/197.jpg 149,89,370,164,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/198.jpg 108,100,136,134,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/199.jpg 168,150,253,258,2 294,145,412,332,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/2.jpg 101,162,895,395,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20.jpg 359,178,603,411,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/200.jpg 30,20,289,202,3 17,100,289,279,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/201.jpg 229,99,253,118,3 209,132,344,169,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/202.jpg 149,166,165,209,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/203.jpg 94,88,197,172,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/204.jpg 17,61,289,182,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/205.jpg 140,52,178,86,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/206.jpg 91,122,176,207,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/209.jpg 167,185,201,238,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/21.jpg 230,122,331,203,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/210.jpg 39,85,106,132,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/211.jpg 154,30,246,206,3 24,214,83,249,3 80,181,115,205,3 14,188,30,211,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/212.jpg 39,76,146,147,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/213.jpg 145,46,190,118,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/214.jpg 266,87,438,190,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/215.jpg 316,139,370,174,3 139,219,159,265,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/216.jpg 21,97,56,166,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/217.jpg 535,258,582,375,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/218.jpg 1,177,46,256,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/219.jpg 176,55,224,103,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/22.jpg 87,66,215,123,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/220.jpg 273,208,327,275,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/221.jpg 161,59,231,252,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/223.jpg 164,193,206,250,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/224.jpg 107,187,132,228,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/225.jpg 255,326,311,389,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/226.jpg 337,128,378,160,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/227.jpg 154,15,172,65,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/228.jpg 366,244,402,289,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/229.jpg 298,355,355,437,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/23.jpg 109,118,189,187,2 273,88,289,109,3 308,153,446,181,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/230.jpg 63,54,169,99,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/231.jpg 124,94,177,203,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/232.jpg 447,193,529,249,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/233.jpg 336,197,504,557,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/234.jpg 326,61,370,144,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/235.jpg 153,88,189,143,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/236.jpg 267,115,281,164,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/237.jpg 334,280,377,328,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/238.jpg 380,184,619,271,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/239.jpg 84,127,166,175,1 111,416,220,472,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/24.jpg 272,88,437,193,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/240.jpg 125,107,178,148,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/241.jpg 232,112,274,144,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/242.jpg 133,87,182,138,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/243.jpg 328,246,403,287,1 653,1,704,66,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/244.jpg 375,287,414,317,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/245.jpg 756,356,964,834,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/246.jpg 216,126,376,277,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/247.jpg 135,172,161,197,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/248.jpg 204,31,245,99,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/249.jpg 600,350,742,429,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/250.jpg 274,310,305,383,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/251.jpg 108,233,133,266,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/252.jpg 206,333,323,423,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/253.jpg 182,273,235,340,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/254.jpg 290,107,333,162,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/255.jpg 513,282,670,384,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/256.jpg 448,166,563,208,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/257.jpg 729,423,787,502,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/258.jpg 290,113,346,160,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/259.jpg 150,14,179,68,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/26.jpg 65,199,296,397,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/260.jpg 375,85,426,150,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/261.jpg 31,288,79,349,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/262.jpg 111,385,219,516,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/263.jpg 376,130,423,172,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/264.jpg 245,41,279,87,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/265.jpg 367,141,689,313,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/266.jpg 396,53,468,151,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/267.jpg 375,134,429,181,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/268.jpg 247,67,319,98,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/269.jpg 120,156,178,182,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/27.jpg 93,84,479,168,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/270.jpg 234,316,315,425,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/271.jpg 333,214,366,277,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/272.jpg 348,339,442,384,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/273.jpg 107,95,224,190,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/274.jpg 199,500,330,674,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/275.jpg 272,268,379,375,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/276.jpg 57,259,133,311,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/277.jpg 51,143,131,173,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/278.jpg 160,121,193,151,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/279.jpg 65,586,493,766,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/28.jpg 253,177,270,197,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/281.jpg 204,141,240,191,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/282.jpg 61,596,487,765,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/284.jpg 253,92,292,122,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/285.jpg 362,99,412,119,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/286.jpg 262,153,304,180,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/287.jpg 400,230,426,264,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/288.jpg 50,130,165,181,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/289.jpg 44,379,111,461,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/29.jpg 123,110,218,206,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/290.jpg 42,110,67,123,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/291.jpg 246,135,301,195,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/292.jpg 196,194,288,243,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/293.jpg 553,436,605,524,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/294.jpg 300,443,407,491,1 350,222,584,423,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/295.jpg 458,217,548,279,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/296.jpg 87,398,187,542,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/298.jpg 717,892,1026,1142,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/299.jpg 230,168,302,204,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/3.jpg 639,248,867,379,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/30.jpg 52,113,288,205,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/301.jpg 100,399,148,444,1 124,248,146,297,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/302.jpg 146,96,333,157,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/303.jpg 313,255,367,335,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/304.jpg 120,227,152,375,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/305.jpg 369,162,433,216,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/307.jpg 81,279,115,332,1 392,208,414,255,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/308.jpg 205,167,239,188,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/309.jpg 298,442,400,509,1 350,220,592,419,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/31.jpg 17,29,82,92,3 368,187,417,233,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/311.jpg 140,284,220,354,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/312.jpg 324,241,423,282,1 668,5,707,73,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/313.jpg 111,110,195,149,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/314.jpg 112,191,173,356,1 175,173,253,447,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/316.jpg 278,126,353,187,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/317.jpg 380,188,418,206,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/318.jpg 220,85,265,113,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/319.jpg 117,175,158,255,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/32.jpg 135,55,490,239,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/320.jpg 341,495,561,725,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/321.jpg 7,41,34,97,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/322.jpg 221,175,250,241,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/323.jpg 387,280,469,318,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/324.jpg 39,262,74,318,1 194,156,225,180,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/325.jpg 8,101,81,157,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/326.jpg 117,189,178,354,1 181,172,244,448,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/327.jpg 379,169,411,219,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/328.jpg 330,216,361,278,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/329.jpg 154,139,240,270,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/33.jpg 170,179,248,264,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/330.jpg 292,151,361,195,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/331.jpg 373,264,446,318,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/332.jpg 656,128,730,214,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/333.jpg 95,116,136,152,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/334.jpg 68,77,203,131,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/335.jpg 65,49,92,69,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/336.jpg 81,128,190,161,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/337.jpg 186,133,238,153,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/338.jpg 462,73,492,110,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/339.jpg 222,59,260,76,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/34.jpg 222,92,448,405,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/340.jpg 397,132,485,191,1 267,562,354,609,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/341.jpg 372,41,421,81,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/342.jpg 283,96,335,140,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/343.jpg 394,212,546,280,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/344.jpg 74,75,198,132,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/345.jpg 8,17,105,122,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/346.jpg 86,116,353,236,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/347.jpg 174,248,252,333,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/348.jpg 7,95,74,158,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/349.jpg 80,73,116,107,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/35.jpg 145,242,278,411,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/350.jpg 198,163,299,214,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/351.jpg 36,143,71,165,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/352.jpg 30,92,59,120,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/353.jpg 265,128,333,158,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/354.jpg 213,123,259,239,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/355.jpg 27,183,130,231,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/356.jpg 192,161,229,185,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/357.jpg 132,1,170,60,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/358.jpg 324,248,394,285,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/359.jpg 46,10,123,83,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/36.jpg 333,103,381,192,2 1,191,93,229,2 176,270,200,284,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/360.jpg 193,195,296,253,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/361.jpg 270,124,446,435,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/362.jpg 224,13,466,419,1 466,74,753,241,1 36,10,215,276,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/363.jpg 104,1,275,584,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/364.jpg 178,56,225,101,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/365.jpg 391,293,465,393,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/366.jpg 83,15,211,60,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/367.jpg 96,18,313,514,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/368.jpg 165,172,294,226,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/369.jpg 31,445,235,803,1 877,459,996,796,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/37.jpg 48,75,234,122,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/370.jpg 5,101,419,252,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/371.jpg 15,83,130,177,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/372.jpg 80,309,413,855,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/373.jpg 40,1,866,649,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/374.jpg 370,237,1000,426,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/375.jpg 84,54,165,142,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/376.jpg 218,193,255,353,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/377.jpg 196,32,1172,700,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/378.jpg 71,5,463,303,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/379.jpg 57,83,266,225,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/380.jpg 286,75,475,220,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/381.jpg 21,20,358,293,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/382.jpg 227,38,262,68,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/383.jpg 157,57,215,84,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/384.jpg 215,1,240,54,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/385.jpg 97,210,150,346,0 1,256,163,326,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/386.jpg 79,212,385,434,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/387.jpg 313,250,379,274,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/388.jpg 210,100,237,133,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/389.jpg 371,571,689,1461,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/39.jpg 328,79,449,170,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/390.jpg 494,214,809,446,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/391.jpg 22,268,769,600,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/392.jpg 335,68,405,239,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/393.jpg 134,170,366,260,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/394.jpg 181,68,321,269,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/395.jpg 236,499,320,639,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/396.jpg 418,231,467,304,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/397.jpg 37,57,244,292,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/398.jpg 212,90,374,215,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/399.jpg 163,80,180,125,1 184,202,381,232,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/4.jpg 193,115,325,145,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/40.jpg 114,58,374,160,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/400.jpg 45,147,1280,885,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/401.jpg 39,119,140,291,0 246,123,312,282,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/402.jpg 54,22,464,359,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/403.jpg 255,206,432,270,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/404.jpg 217,177,504,305,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/405.jpg 137,8,750,737,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/406.jpg 104,192,414,1241,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/407.jpg 1,9,281,151,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/408.jpg 27,195,233,399,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/409.jpg 825,625,973,983,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/41.jpg 50,187,186,284,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/410.jpg 84,133,769,664,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/411.jpg 255,351,573,492,1 633,205,838,558,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/412.jpg 110,133,549,333,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/413.jpg 159,25,259,341,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/414.jpg 315,457,647,604,1 36,101,117,248,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/415.jpg 101,145,403,370,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/416.jpg 312,83,360,206,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/417.jpg 182,437,383,1112,1 1,565,852,1023,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/418.jpg 5,195,286,291,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/419.jpg 164,172,227,300,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/42.jpg 210,60,269,91,3 294,105,332,130,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/420.jpg 155,135,264,257,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/421.jpg 273,207,316,275,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/422.jpg 51,127,283,344,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/423.jpg 684,419,852,581,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/424.jpg 213,20,356,368,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/425.jpg 348,336,632,550,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/426.jpg 91,122,126,205,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/427.jpg 170,106,222,226,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/428.jpg 154,126,437,243,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/429.jpg 157,316,523,409,0 190,163,236,262,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/43.jpg 189,96,413,261,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/430.jpg 68,47,281,129,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/431.jpg 41,471,773,662,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/432.jpg 65,140,258,325,1 379,475,964,747,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/433.jpg 199,99,763,662,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/434.jpg 25,83,500,285,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/435.jpg 1,255,101,294,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/436.jpg 240,147,373,204,0 244,124,375,243,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/437.jpg 115,78,195,219,0 200,109,273,207,0 355,146,474,242,0 461,150,519,236,0 277,151,345,210,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/438.jpg 494,43,787,515,0 248,67,346,278,0 117,95,373,187,0 493,28,657,251,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/439.jpg 76,49,277,166,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/44.jpg 484,53,775,411,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/440.jpg 67,1,326,205,0 177,16,394,170,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/441.jpg 293,56,614,173,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/442.jpg 210,303,345,366,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/443.jpg 53,97,295,418,1 408,108,616,481,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/444.jpg 197,123,290,300,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/445.jpg 261,85,388,314,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/446.jpg 62,269,208,373,1 513,527,631,776,1 659,637,866,746,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/447.jpg 247,113,552,218,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/448.jpg 27,22,206,156,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/449.jpg 270,323,798,1041,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/45.jpg 105,126,304,555,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/450.jpg 114,238,425,353,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/451.jpg 143,179,240,363,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/452.jpg 18,1,146,248,1 314,1,456,267,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/453.jpg 187,3,301,408,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/454.jpg 68,17,384,278,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/455.jpg 14,213,223,378,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/456.jpg 9,87,375,579,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/457.jpg 42,137,189,402,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/458.jpg 721,379,878,1028,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/459.jpg 186,44,275,268,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/46.jpg 28,106,113,153,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/460.jpg 346,100,583,376,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/461.jpg 137,161,361,535,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/462.jpg 230,107,425,660,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/463.jpg 297,51,374,235,0 156,100,225,225,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/464.jpg 296,175,379,222,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/465.jpg 195,167,395,573,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/466.jpg 763,518,929,705,1 674,277,796,451,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/467.jpg 523,580,816,737,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/468.jpg 445,187,494,236,1 173,219,251,297,1 36,166,85,210,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/469.jpg 2,137,391,341,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/47.jpg 194,496,532,811,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/470.jpg 593,376,995,810,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/471.jpg 1172,126,1343,766,1 1423,219,1596,835,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/472.jpg 428,313,660,433,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/473.jpg 18,123,167,340,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/474.jpg 391,115,636,331,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/475.jpg 172,66,342,211,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/476.jpg 25,217,939,450,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/477.jpg 160,167,264,270,1 221,228,349,301,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/478.jpg 223,282,601,415,1 512,240,875,455,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/479.jpg 28,112,309,394,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/48.jpg 19,50,696,1018,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/480.jpg 29,241,336,606,1 1020,445,1300,812,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/481.jpg 42,474,209,763,1 680,573,802,831,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/482.jpg 369,256,513,442,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/483.jpg 189,107,379,240,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/484.jpg 180,31,435,209,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/485.jpg 88,215,213,287,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/486.jpg 114,259,322,529,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/487.jpg 878,432,1212,627,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/488.jpg 102,1,294,53,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/489.jpg 285,177,333,228,1 316,28,349,42,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/49.jpg 120,20,175,157,2 229,117,313,160,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/490.jpg 284,851,3379,1528,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/491.jpg 46,155,296,200,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/492.jpg 425,442,1463,794,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/493.jpg 267,185,371,299,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/494.jpg 47,436,672,805,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/495.jpg 187,5,608,190,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/496.jpg 71,145,320,306,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/497.jpg 273,193,311,279,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/498.jpg 187,140,438,278,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/499.jpg 240,20,544,354,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/5.jpg 170,23,218,55,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/50.jpg 521,239,1021,622,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/500.jpg 53,146,214,372,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/501.jpg 77,181,462,255,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/502.jpg 156,175,264,315,1 310,62,419,124,1 197,160,299,299,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/503.jpg 53,123,243,228,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/504.jpg 127,60,171,105,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/505.jpg 17,3,144,144,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/506.jpg 70,78,199,134,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/507.jpg 34,114,119,158,1 126,59,180,116,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/508.jpg 16,1,85,237,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/509.jpg 41,59,190,119,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/510.jpg 129,17,181,182,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/511.jpg 67,113,111,218,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/512.jpg 114,59,148,152,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/513.jpg 63,5,183,168,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/514.jpg 112,114,174,178,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/515.jpg 84,98,152,214,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/516.jpg 90,130,212,160,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/517.jpg 66,112,157,151,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/518.jpg 32,82,223,140,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/519.jpg 164,51,252,162,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/52.jpg 62,61,471,161,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/520.jpg 99,19,126,148,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/521.jpg 76,98,142,172,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/522.jpg 45,59,191,216,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/523.jpg 82,55,132,96,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/524.jpg 90,108,256,155,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/525.jpg 164,1,236,30,1 70,17,121,42,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/526.jpg 16,21,190,179,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/527.jpg 23,60,271,182,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/528.jpg 10,39,137,145,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/529.jpg 1,37,272,159,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/53.jpg 522,219,602,283,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/530.jpg 82,7,114,145,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/531.jpg 25,35,146,213,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/532.jpg 70,112,163,213,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/533.jpg 49,93,90,190,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/534.jpg 98,30,142,64,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/535.jpg 70,133,113,267,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/536.jpg 44,41,137,173,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/537.jpg 60,76,90,137,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/538.jpg 62,18,166,88,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/539.jpg 14,89,75,200,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/54.jpg 224,363,458,603,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/540.jpg 77,81,244,133,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/541.jpg 3,6,111,57,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/542.jpg 15,80,51,141,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/543.jpg 1,10,75,45,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/544.jpg 21,73,113,158,1 152,69,244,152,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/545.jpg 183,108,317,153,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/546.jpg 64,22,110,137,1 159,29,201,137,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/547.jpg 25,1,165,139,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/548.jpg 30,121,108,166,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/549.jpg 118,22,198,87,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/55.jpg 160,98,402,224,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/550.jpg 88,35,273,168,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/551.jpg 42,31,170,153,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/552.jpg 53,86,106,126,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/553.jpg 235,95,817,960,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/554.jpg 213,248,442,665,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/555.jpg 290,420,697,1033,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/556.jpg 443,160,613,291,1 322,229,577,334,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/557.jpg 523,103,570,290,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/558.jpg 88,127,1917,1046,0 140,1,1531,1035,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/559.jpg 1,92,640,184,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/56.jpg 182,134,518,333,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/560.jpg 302,653,920,1018,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/561.jpg 351,192,616,399,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/562.jpg 108,23,149,152,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/563.jpg 105,9,380,840,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/564.jpg 350,94,623,272,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/565.jpg 155,393,316,674,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/566.jpg 171,157,246,255,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/567.jpg 155,97,290,325,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/568.jpg 52,78,424,126,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/569.jpg 729,276,950,613,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/57.jpg 339,139,399,181,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/570.jpg 153,209,394,325,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/571.jpg 335,223,420,377,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/573.jpg 277,531,341,617,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/574.jpg 513,206,624,322,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/575.jpg 11,1,234,266,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/576.jpg 31,160,648,350,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/577.jpg 411,608,1040,724,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/578.jpg 28,20,619,389,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/579.jpg 115,179,370,301,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/58.jpg 268,127,322,168,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/580.jpg 36,289,236,361,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/581.jpg 35,6,453,387,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/582.jpg 160,39,482,758,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/583.jpg 174,98,609,387,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/584.jpg 354,1,452,250,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/585.jpg 255,512,457,665,1 154,553,387,700,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/586.jpg 4,82,117,158,1 148,93,205,141,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/587.jpg 1,261,215,328,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/588.jpg 404,181,476,299,1 223,391,366,442,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/589.jpg 542,200,616,316,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/59.jpg 159,31,246,207,3 24,215,86,252,3 80,180,115,206,3 15,188,30,212,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/590.jpg 199,68,352,158,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/591.jpg 225,331,512,576,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/592.jpg 386,154,639,276,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/593.jpg 147,373,639,720,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/594.jpg 678,250,946,676,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/595.jpg 796,75,1024,170,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/596.jpg 403,408,658,720,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/597.jpg 648,582,967,893,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/598.jpg 113,95,507,344,0 466,46,541,80,0 2,89,143,130,0 98,38,202,74,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/599.jpg 290,112,397,240,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/6.jpg 23,64,462,207,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/60.jpg 117,68,202,146,2 217,81,304,165,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/600.jpg 391,112,595,351,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/601.jpg 305,265,559,364,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/602.jpg 33,99,171,170,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/603.jpg 147,379,445,500,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/604.jpg 533,140,778,467,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/605.jpg 118,133,432,224,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/606.jpg 114,139,210,379,1 723,93,873,400,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/607.jpg 334,266,607,350,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/608.jpg 296,88,469,617,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/609.jpg 287,122,455,240,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/61.jpg 276,130,340,174,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/610.jpg 93,109,169,317,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/611.jpg 311,110,389,170,1 241,94,281,129,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/612.jpg 683,535,863,636,1 709,297,841,459,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/613.jpg 33,105,587,342,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/614.jpg 387,742,792,1021,1 1327,658,1739,904,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/615.jpg 25,71,226,198,0 552,229,800,330,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/616.jpg 419,70,504,239,1 46,54,126,219,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/617.jpg 24,95,102,294,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/618.jpg 83,175,321,490,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/619.jpg 254,170,414,232,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/62.jpg 136,151,307,252,2 250,123,321,179,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/620.jpg 186,521,740,717,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/621.jpg 292,77,900,432,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/622.jpg 263,166,465,281,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/623.jpg 608,34,715,429,1 262,198,324,435,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/624.jpg 98,95,125,161,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/625.jpg 47,194,394,278,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/626.jpg 443,200,626,321,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/627.jpg 206,86,274,150,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/628.jpg 68,190,120,325,1 310,162,353,295,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/629.jpg 63,135,169,213,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/63.jpg 137,138,398,255,2 279,158,436,283,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/630.jpg 329,194,386,291,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/631.jpg 232,159,371,250,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/632.jpg 116,55,200,187,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/633.jpg 38,19,204,134,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/634.jpg 175,29,291,183,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/635.jpg 27,134,538,367,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/636.jpg 101,48,346,621,0 571,149,873,648,0 822,183,1000,422,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/637.jpg 663,96,978,293,1 287,300,586,578,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/638.jpg 35,7,179,153,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/639.jpg 1,89,161,140,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/64.jpg 141,108,252,326,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/640.jpg 42,54,143,155,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/641.jpg 56,22,127,196,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/642.jpg 70,78,199,132,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/643.jpg 36,4,183,152,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/644.jpg 34,5,186,156,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/645.jpg 19,69,244,171,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/646.jpg 15,76,180,169,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/647.jpg 7,18,265,166,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/648.jpg 9,64,172,134,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/649.jpg 61,21,115,191,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/65.jpg 361,395,497,493,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/650.jpg 67,71,200,132,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/651.jpg 509,254,590,375,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/652.jpg 110,168,599,492,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/653.jpg 127,32,493,371,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/654.jpg 464,600,820,962,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/655.jpg 232,11,357,423,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/656.jpg 64,91,524,349,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/657.jpg 41,88,550,290,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/658.jpg 176,54,227,106,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/659.jpg 349,26,460,430,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/66.jpg 25,42,385,203,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/660.jpg 50,58,219,189,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/661.jpg 154,144,203,197,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/662.jpg 300,184,343,229,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/663.jpg 83,1,174,133,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/664.jpg 130,138,262,209,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/665.jpg 15,23,85,299,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/666.jpg 91,70,128,140,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/667.jpg 314,137,348,189,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/668.jpg 241,149,353,331,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/669.jpg 140,281,227,316,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/67.jpg 76,72,143,149,2 41,70,79,114,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/670.jpg 425,109,503,172,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/671.jpg 154,218,283,265,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/672.jpg 27,29,117,444,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/673.jpg 459,90,577,231,1 151,66,193,117,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/674.jpg 284,118,440,303,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/675.jpg 94,5,289,287,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/676.jpg 52,25,478,410,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/677.jpg 61,116,207,205,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/678.jpg 195,237,249,267,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/679.jpg 239,382,439,424,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/68.jpg 261,137,487,210,2 50,145,158,197,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/680.jpg 105,184,138,230,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/681.jpg 86,228,498,339,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/682.jpg 403,278,558,352,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/683.jpg 208,50,334,174,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/684.jpg 263,1,550,204,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/685.jpg 235,222,351,281,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/686.jpg 288,168,421,241,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/688.jpg 180,138,284,289,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/689.jpg 314,12,511,330,1 8,19,197,301,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/69.jpg 158,94,231,137,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/690.jpg 63,24,239,298,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/691.jpg 496,161,548,196,1 37,197,87,221,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/692.jpg 161,132,221,175,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/693.jpg 32,56,245,211,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/694.jpg 269,102,360,143,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/695.jpg 306,37,565,501,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/696.jpg 308,76,570,247,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/697.jpg 231,204,486,486,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/698.jpg 331,55,386,150,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/699.jpg 377,175,413,217,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/7.jpg 11,77,111,169,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/70.jpg 525,230,1575,654,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/700.jpg 270,219,511,671,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/701.jpg 1349,163,1571,409,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/702.jpg 260,113,291,172,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/703.jpg 150,263,202,335,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/704.jpg 193,243,237,292,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/705.jpg 215,208,319,257,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/706.jpg 246,47,358,101,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/707.jpg 413,501,552,809,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/708.jpg 409,514,534,805,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/709.jpg 221,121,290,293,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/71.jpg 194,244,256,286,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/710.jpg 1,105,462,224,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/711.jpg 34,53,215,164,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/712.jpg 47,156,683,455,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/713.jpg 253,42,466,421,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/714.jpg 242,40,455,432,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/715.jpg 19,76,347,312,1 75,57,360,177,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/716.jpg 258,110,288,203,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/717.jpg 74,40,317,359,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/718.jpg 408,498,671,704,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/719.jpg 453,1,574,263,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/72.jpg 191,317,333,483,3 722,330,852,481,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/720.jpg 179,841,775,1038,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/721.jpg 26,30,386,356,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/722.jpg 69,126,487,236,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/723.jpg 155,142,241,279,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/724.jpg 25,40,260,213,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/725.jpg 88,381,119,429,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/726.jpg 62,87,190,144,0 175,11,244,197,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/728.jpg 165,222,623,312,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/729.jpg 147,6,323,728,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/73.jpg 617,36,908,379,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/730.jpg 86,34,273,521,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/731.jpg 338,294,556,680,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/732.jpg 210,25,395,240,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/733.jpg 297,167,330,213,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/734.jpg 114,32,258,476,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/735.jpg 116,7,244,483,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/736.jpg 91,134,507,430,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/737.jpg 135,44,254,300,0 144,70,389,208,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/738.jpg 6,12,187,211,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/739.jpg 18,105,331,248,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/74.jpg 740,102,907,688,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/740.jpg 680,420,756,627,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/741.jpg 377,14,420,36,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/742.jpg 114,199,208,293,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/743.jpg 413,478,463,567,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/744.jpg 72,132,106,149,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/745.jpg 36,122,151,530,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/746.jpg 105,416,263,520,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/747.jpg 158,62,400,536,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/748.jpg 171,333,337,389,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/749.jpg 82,17,174,315,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/75.jpg 425,85,562,175,3 432,279,478,312,3 411,324,441,348,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/750.jpg 1,14,551,298,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/751.jpg 137,32,178,87,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/752.jpg 161,57,566,417,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/755.jpg 16,107,309,201,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/756.jpg 88,646,301,853,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/757.jpg 51,135,137,177,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/758.jpg 189,95,259,180,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/759.jpg 76,424,334,527,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/76.jpg 157,103,190,129,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/760.jpg 24,18,375,274,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/761.jpg 108,350,175,445,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/762.jpg 223,133,309,217,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/763.jpg 106,205,211,257,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/764.jpg 72,99,458,304,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/765.jpg 28,111,167,194,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/766.jpg 594,139,666,249,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/767.jpg 105,244,212,306,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/768.jpg 7,259,382,760,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/769.jpg 70,201,276,965,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/77.jpg 25,252,266,376,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/770.jpg 272,267,556,336,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/771.jpg 159,174,621,412,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/772.jpg 53,40,615,853,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/773.jpg 375,167,415,220,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/774.jpg 332,141,392,179,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/775.jpg 455,161,537,337,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/776.jpg 307,90,418,143,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/777.jpg 103,220,153,312,1 364,164,439,265,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/778.jpg 281,146,343,236,1 268,169,364,198,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/779.jpg 285,148,326,228,1 269,170,353,195,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/78.jpg 247,90,396,247,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/780.jpg 1,280,742,642,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/781.jpg 79,259,905,649,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/782.jpg 231,67,502,420,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/783.jpg 208,438,619,538,1 130,245,205,383,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/784.jpg 179,118,267,149,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/785.jpg 245,392,543,555,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/786.jpg 160,371,341,884,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/787.jpg 7,1,126,344,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/788.jpg 42,275,732,438,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/789.jpg 395,3,691,223,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/79.jpg 143,218,708,334,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/790.jpg 67,69,533,680,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/791.jpg 128,124,364,219,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/792.jpg 13,81,187,176,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/793.jpg 116,7,169,137,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/794.jpg 52,22,270,137,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/795.jpg 81,1,288,139,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/796.jpg 122,2,240,193,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/797.jpg 24,4,159,180,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/798.jpg 15,4,172,167,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/799.jpg 73,6,165,192,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/80.jpg 65,161,275,245,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/800.jpg 33,3,187,139,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/801.jpg 104,39,227,166,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/802.jpg 120,6,242,194,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/803.jpg 104,94,154,113,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/804.jpg 38,7,199,158,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/805.jpg 37,20,228,120,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/806.jpg 71,27,224,162,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/807.jpg 36,64,99,231,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/808.jpg 80,46,167,107,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/809.jpg 41,50,240,116,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/81.jpg 62,124,269,227,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/810.jpg 29,12,172,156,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/811.jpg 68,51,90,68,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/812.jpg 83,11,113,32,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/813.jpg 72,41,232,164,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/814.jpg 129,76,147,125,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/815.jpg 15,94,65,124,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/816.jpg 155,3,189,140,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/817.jpg 1,68,215,112,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/818.jpg 116,5,167,135,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/819.jpg 180,135,222,156,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/82.jpg 147,56,301,104,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/820.jpg 18,6,275,177,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/821.jpg 41,140,98,187,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/822.jpg 23,68,202,141,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/823.jpg 123,31,147,86,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/824.jpg 97,7,231,173,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/825.jpg 72,66,123,133,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/826.jpg 87,44,125,124,0 229,48,271,143,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/827.jpg 153,66,193,106,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/828.jpg 95,108,129,175,1 19,158,89,192,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/829.jpg 19,69,279,116,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/83.jpg 256,130,342,262,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/830.jpg 46,41,89,98,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/831.jpg 48,86,179,151,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/832.jpg 49,67,244,192,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/833.jpg 223,12,262,108,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/834.jpg 45,59,161,88,0 73,106,185,148,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/835.jpg 15,10,239,181,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/836.jpg 14,27,133,194,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/837.jpg 193,66,218,115,1 100,124,166,187,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/838.jpg 169,99,260,163,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/839.jpg 16,34,259,163,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/840.jpg 1,93,132,131,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/841.jpg 75,11,99,101,0 66,72,161,88,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/842.jpg 99,23,121,90,1 17,62,60,109,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/843.jpg 23,43,225,159,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/844.jpg 21,93,239,163,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/845.jpg 2,33,253,179,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/846.jpg 6,6,191,180,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/847.jpg 4,55,235,101,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/848.jpg 130,14,268,167,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/849.jpg 41,5,251,165,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/85.jpg 62,74,275,206,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/850.jpg 14,10,245,177,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/851.jpg 57,7,125,245,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/852.jpg 19,6,168,161,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/853.jpg 13,67,269,122,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/854.jpg 49,84,261,129,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/855.jpg 18,58,281,116,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/856.jpg 64,71,110,168,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/857.jpg 62,7,202,206,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/858.jpg 165,83,202,104,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/859.jpg 4,16,91,108,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/86.jpg 148,51,172,170,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/860.jpg 57,25,244,89,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/861.jpg 104,22,155,257,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/862.jpg 44,53,262,129,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/863.jpg 5,68,213,151,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/864.jpg 1,82,195,130,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/865.jpg 1,25,263,120,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/866.jpg 84,10,108,32,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/867.jpg 61,49,91,65,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/868.jpg 50,150,89,176,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/869.jpg 94,130,228,175,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/87.jpg 357,364,435,571,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/870.jpg 86,71,113,98,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/871.jpg 32,19,68,76,1 146,80,222,119,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/872.jpg 120,67,211,118,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/873.jpg 144,5,184,132,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/874.jpg 194,85,222,125,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/875.jpg 179,299,366,459,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/876.jpg 200,306,372,488,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/877.jpg 57,18,225,189,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/878.jpg 177,127,243,156,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/879.jpg 95,205,159,271,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/88.jpg 187,404,1200,568,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/880.jpg 132,136,1117,647,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/881.jpg 174,69,647,492,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/882.jpg 112,97,518,175,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/883.jpg 166,189,488,321,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/884.jpg 112,112,318,445,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/885.jpg 215,138,347,441,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/886.jpg 388,22,472,70,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/887.jpg 187,475,381,603,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/888.jpg 38,63,626,382,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/889.jpg 336,162,456,203,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/89.jpg 176,124,300,317,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/890.jpg 14,118,793,633,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/891.jpg 56,507,152,658,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/892.jpg 128,103,202,195,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/893.jpg 170,241,238,351,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/894.jpg 279,97,356,130,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/895.jpg 400,195,466,244,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/896.jpg 10,170,99,206,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/897.jpg 252,140,363,182,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/898.jpg 171,57,279,360,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/899.jpg 58,88,397,162,1
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/9.jpg 159,45,192,72,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/90.jpg 220,34,317,179,2 17,184,48,275,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/900.jpg 521,18,895,761,0
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/91.jpg 426,112,509,287,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/92.jpg 17,88,119,134,2 154,108,225,136,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/93.jpg 95,55,162,105,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/94.jpg 219,194,291,240,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/95.jpg 171,73,218,148,2 231,84,282,137,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/96.jpg 353,307,486,502,2
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/97.jpg 325,108,365,192,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/98.jpg 76,162,906,607,3
+/home/git/dylan/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/99.jpg 130,125,269,194,2

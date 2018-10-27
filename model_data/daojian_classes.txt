@@ -1,0 +1,4 @@
+longGun
+shortGun
+longKnife
+shortKnife
